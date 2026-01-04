@@ -1,16 +1,21 @@
-# metacod
+# Meta para o Cod 
 
-A new Flutter project.
+Como eu sou jogador de Call of Duty
+resolvi copiar um projeto que lista os acessórios de armas metas no cod, mas sem grande sucesso na interface 
+o que consegui até o momento foi criar um servidor local com python3 e fazer a comunicação com o flutter.
+a interface ainda está fraca apenas com dois botoes que mostram informacoes minimas
 
-## Getting Started
+mas inda quero colocar imagem das armas e dos acessorios o BD nao conseguiu puxar. 
+vamos em prosseguindo com fé.
 
-This project is a starting point for a Flutter application.
+para rodar o aplicativo instale o zip > extraia e rode o comando    " flutter run -d windows " no caminho que voce salvou 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+rode o servidor tambem > entre no caminho main.py e rode o pyhton    " python3 main.py" 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+<img width="987" height="302" alt="image" src="https://github.com/user-attachments/assets/9ee36918-fd56-46be-b632-a48489b19a28" />
+
