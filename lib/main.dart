@@ -30,8 +30,8 @@ class MetaCodPage extends StatefulWidget {
 class _MetaCodPageState extends State<MetaCodPage> {
   // Função para buscar os dados do seu Kali Linux
   Future<List<dynamic>> fetchMeta() async {
-    // SEU IP DO KALI: 172.30.73.150
-    final response = await http.get(Uri.parse('http://172.30.73.150:8000/meta'));
+    // SEU IP DO KALI: >> pegue seu ip e coloque aqui <<
+    final response = await http.get(Uri.parse('http://SEU IP:8000/meta'));
 
     if (response.statusCode == 200) {
       final data = json.decode(response.body);
